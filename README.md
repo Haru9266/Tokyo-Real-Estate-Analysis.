@@ -13,7 +13,7 @@ This project provides a data-driven analysis of the Tokyo Real Estate market usi
 
 ---
 
-## 🧼 Data Cleaning Process
+##  Data Cleaning Process
 Before analysis, the raw dataset underwent a rigorous cleaning process:
 * Standardized column names for better accessibility.
 * Handled missing values and corrected data types.
